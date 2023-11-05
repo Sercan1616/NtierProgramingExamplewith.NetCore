@@ -1,0 +1,12 @@
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\bin\Debug\net5.0\Udemy.TodoAppNTier.Common.deps.json
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\bin\Debug\net5.0\Udemy.TodoAppNTier.Common.dll
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\bin\Debug\net5.0\ref\Udemy.TodoAppNTier.Common.dll
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\bin\Debug\net5.0\Udemy.TodoAppNTier.Common.pdb
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.csproj.AssemblyReference.cache
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.AssemblyInfoInputs.cache
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.AssemblyInfo.cs
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.dll
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\ref\Udemy.TodoAppNTier.Common.dll
+C:\Users\Sercan\source\repos\Udemy.TodoAppNTier\Udemy.TodoAppNTier.Common\obj\Debug\net5.0\Udemy.TodoAppNTier.Common.pdb
